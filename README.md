@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/Dexter01-abhay/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -30,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Dexter01-abhay/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Dexter01-abhay/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
