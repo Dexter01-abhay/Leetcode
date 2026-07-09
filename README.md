@@ -6,6 +6,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dexter01-abhay/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dexter01-abhay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -27,6 +28,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dexter01-abhay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -36,6 +38,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dexter01-abhay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -61,4 +64,12 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dexter01-abhay/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dexter01-abhay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dexter01-abhay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
