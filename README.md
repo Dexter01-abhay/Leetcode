@@ -6,6 +6,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dexter01-abhay/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dexter01-abhay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dexter01-abhay/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dexter01-abhay/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -73,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dexter01-abhay/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
