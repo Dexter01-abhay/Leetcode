@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Dexter01-abhay/Leetcode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dexter01-abhay/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Dexter01-abhay/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -38,6 +39,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Dexter01-abhay/Leetcode/tree/master/0118-pascals-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dexter01-abhay/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dexter01-abhay/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dexter01-abhay/Leetcode/tree/master/3620-network-recovery-pathways) |
